@@ -37,7 +37,9 @@
 				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Robots/Maps_Robots/L1/BPC_Robot_DeadRec.uasset",
 				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Collectable_Controller.uasset",
 				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Collectable_HealthAndController.uasset",
-				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthAndCollectable_Controller.uasset"
+				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthAndCollectable_Controller.uasset",
+				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyFreezePlayer/WBP_ScreenFreeze.uasset",
+				"C:/Users/emili/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyFreezePlayer/BP_FreezerPlayer.uasset"
 			]
 		}
 	]
